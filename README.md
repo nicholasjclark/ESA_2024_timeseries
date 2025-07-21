@@ -14,8 +14,8 @@ Time series analysis and forecasting are standard goals in applied ecology. In t
 This workshop will cover:
 
 - Introduction to time series and time series visualization
-- Generalised LInear Models (GLMs) and hierarchical models (GLMMs)
-- Generalized Additive Modela (GAMs) for nonlinear effects and complex random effects
+- Generalised Linear Models (GLMs) and hierarchical models (GLMMs)
+- Generalized Additive Models (GAMs) for nonlinear effects and complex random effects
 - Dynamic GLMs and Dynamic GAMs
 - Multivariate modeling strategies
 - Forecasting and forecast evaluation
